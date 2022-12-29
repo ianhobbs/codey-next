@@ -1,4 +1,5 @@
 export const sizes = [
+  240,
   480,
   1024,
   1280,
